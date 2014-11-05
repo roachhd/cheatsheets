@@ -1,3 +1,6 @@
+baseurl:  roachhd.github.io/cheatsheets/
+url: roachhd.github.io/cheatsheets/
+
 # files
 layouts: ./_/layouts
 destination: ./_/site
